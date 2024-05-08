@@ -1,1 +1,1 @@
-install FontAwesome
+Please install FontAwesome
